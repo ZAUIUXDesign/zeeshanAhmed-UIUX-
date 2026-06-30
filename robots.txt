@@ -1,0 +1,8 @@
+# Robots.txt for Zeeshan Ahmed Portfolio
+# https://zeeshan-ahmed-uiux.vercel.app/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://zeeshan-ahmed-uiux.vercel.app/sitemap.xml

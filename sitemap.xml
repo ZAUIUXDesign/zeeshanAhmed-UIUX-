@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Case Study: Electric Helpers Service -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/electric-helper-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Social Connect App -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/social-connect-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Police Car Control Panel -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/car-screen-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Fast Food Restaurant Website -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/fast-food-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: DOCWISE AI -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/docwise-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Anzoor Gallery -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/anzoor-gallery-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Fitness Tracker App -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/fitness-tracker-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Finance Tracker App -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/finance-tracker-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study: Zameen.com Redesign -->
+  <url>
+    <loc>https://zeeshan-ahmed-uiux.vercel.app/zameen-case-study.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
